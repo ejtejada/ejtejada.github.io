@@ -1,4 +1,5 @@
 MIT License
+
 All original work regarding the GPGP and this instance of webpage work Copyright (c) of Edgar Tejada (github.com/ejtejada). All written work is also Copyright (c) of Cathryn Flores, Kristen Marie Islas,and Vishaal Kumar.
 
 Original template
