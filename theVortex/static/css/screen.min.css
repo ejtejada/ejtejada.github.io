@@ -37,7 +37,7 @@
   .2s;transition:background-color
   .2s}.infographic__filter-btn:hover,.infographic__filter-btn.is-selected{background-color:#158f76}.infographic__content{margin:45px
   auto
-  60px}.infographic__item{position:relative;display:inline-block;width:1024px;height:1024px;margin:0
+  60px}.infographic__item{position:relative;display:inline-block;width:1250px;height:3125px;margin:0
   30px
   35px;-webkit-border-radius:10%;border-radius:10%;overflow:auto}.infographic__item.is-hidden{display:none}.infographic__item-img{display:inline-block;height:100%;margin:0
   auto}.infographic__item-caption{visibility:hidden;position:absolute;width:100%;height:100%;top:0;padding-top:35px;background-color:#1bbc9b;background-color:rgba(27,188,155,.8);-webkit-border-radius:50%;border-radius:50%;color:#fff;opacity:0;-webkit-transition:all
