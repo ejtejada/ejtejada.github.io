@@ -1,5 +1,5 @@
 All images and media for this project are under the license, and if not noted as by our team members, belong to their original authors.
-
+All original work regarding the GPGP and this instance of webpage work Copyright (c) of Edgar Tejada (github.com/ejtejada). All written work and media is also Copyright (c) of Cathryn Flores, Kristen Marie Islas,and Vishaal Kumar and released under CC BY-NC-SA 4.0 license.
 
 All images used are from creativecommons.org
 
