@@ -1,10 +1,11 @@
-#The Vortex
+##The Vortex
 This website hosts and acts as a research portal for information regarding the Great Pacific Garbage Patch from an environmental perspective. This webpage hosts both the first example of our fictional podcast, The Vortex, as well as citations to the compiled primary and secondary research presented in the podcast.
 
 
 All views on this webpage our our own, and do not necessarily reflect the views of the original researches cited nor any other bodies.
 
-#Original Templage Information
+##Original Templage Information
+
 # Design studio one page template - ARCHIVED
 
 Flat and responsive website template, designed by [cssauthor](http://www.cssauthor.com/) and coded by [Maxim Orlov](https://github.com/orlovmax).
@@ -195,4 +196,4 @@ This project uses BrowserSync as static server with enabled and configured live 
 
 ## License
 
-[MIT](https://github.com/website-templates/design-studio_one-page-template/blob/master/LICENSE.md)
+[MIT](https://github.com/ejtejada/ejtejada.github.io/blob/master/LICENSE.md)
